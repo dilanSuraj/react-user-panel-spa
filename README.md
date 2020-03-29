@@ -17,3 +17,5 @@ git clone https://github.com/emrullahayin/react-landing-page.git
 ## Deployment
 
 The app can be deployed using either Netlify
+
+![output](https://user-images.githubusercontent.com/40181843/77837971-f0f26900-718c-11ea-8de1-b4a92481fd5d.png)
